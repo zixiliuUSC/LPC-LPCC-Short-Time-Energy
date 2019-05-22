@@ -1,6 +1,5 @@
 function [ frame_sig, E ] = short_time_energy( sig, fs, winlength, overlap)
 %{
-header: hw3@EE519, answer for question 4
 Copyright: Zixi Liu, USCID: 2219403275, Email: zixiliu@usc.edu
 discription: 
 ~sig: sig should be the voice signal reading by audioread
